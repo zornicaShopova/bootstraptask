@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    font-family: serif;
+}
+
+span {
+    text-decoration: capitalize;
+}
+
+.images {
+    width: 275px;
+    height: 183px;
+}
+
+p {
+    width: 220px;
+}
